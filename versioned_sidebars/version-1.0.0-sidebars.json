@@ -1,0 +1,26 @@
+{
+  "version-1.0.0-docs": {
+    "Atoms": [
+      "version-1.0.0-Atoms/a01",
+      "version-1.0.0-Atoms/a02",
+      "version-1.0.0-Atoms/a03",
+      "version-1.0.0-Atoms/a04",
+      "version-1.0.0-Atoms/a05",
+      "version-1.0.0-Atoms/a06",
+      "version-1.0.0-Atoms/a07",
+      "version-1.0.0-Atoms/a08",
+      "version-1.0.0-Atoms/a09",
+      "version-1.0.0-Atoms/a10",
+      "version-1.0.0-Atoms/a11",
+      "version-1.0.0-Atoms/a12",
+      "version-1.0.0-Atoms/a13",
+      "version-1.0.0-Atoms/a14"
+    ]
+  },
+  "version-1.0.0-docs-other": {
+    "First Category": [
+      "version-1.0.0-doc4",
+      "version-1.0.0-doc5"
+    ]
+  }
+}

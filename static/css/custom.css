@@ -1,0 +1,28 @@
+/* your custom css */
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Rubik:300,400,400i,500,500i,700,700i');
+
+
+body {
+  font-family: 'Rubik', sans-serif;
+  overflow: auto;
+  display: inherit;
+}
+
+.headerWrapper .logo{
+  width:32px;
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
