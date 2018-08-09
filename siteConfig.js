@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'OStrich' /* title for your website */,
   tagline: 'UX Guidelines for Business Applications',
   url: 'https://www.cid.com' /* your website url */,
-  baseUrl: 'http://retebug.github.io/bootstrauss.' /* base url for your project */,
+  baseUrl: 'http://retebug.github.io/bootstrauss' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
