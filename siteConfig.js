@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'OStrich' /* title for your website */,
   tagline: 'UX Guidelines for Business Applications',
-  url: 'https://github.com/retebug/bootstrauss/' /* your website url */,
+  url: 'http://retebug.github.io/bootstrauss' /* your website url */,
   baseUrl: 'http://retebug.github.io/bootstrauss' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
